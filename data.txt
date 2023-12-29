@@ -387,11 +387,11 @@
 348 days ago <- this was the commit for the day!!
 347 days ago <- this was the commit for the day!!
 1 days ago <- this was the commit for the day!!
-<<<<<<< HEAD
+
 1 days ago <- this was the commit for the day!!
-=======
+
 5 days ago <- this was the commit for the day!!
->>>>>>> a477aed9b756e632666d7991e6a97764c799ca5d
+
 4 days ago <- this was the commit for the day!!
 3 days ago <- this was the commit for the day!!
 2 days ago <- this was the commit for the day!!
@@ -401,3 +401,4 @@
 3 days ago <- this was the commit for the day!!
 2 days ago <- this was the commit for the day!!
 1 days ago <- this was the commit for the day!!1 days ago <- this was the commit for the day!!
+1 days ago <- this was the commit for the day!!
